@@ -15,7 +15,10 @@ public class Grupo6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Miembros miembro1=new Miembros("Emi",22 );
+        
+        miembro1.saluDar();
     }
     
 }
